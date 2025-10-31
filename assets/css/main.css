@@ -1261,3 +1261,8 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.task-1, .task-2 {
+    width: 49%;
+    float: left;
+}
